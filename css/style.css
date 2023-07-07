@@ -1,0 +1,216 @@
+ *   {
+    margin:0;
+    padding:0;
+	box-sizing:border-box;
+		}
+#banner-section{
+	/*width:100%;*/
+	background:linear-gradient(rgba(24,85,128,0.5),rgba(27,50,66,0.5)),url(../images/image1.jpg);
+	/*height:100vh;*/
+}
+.banner{
+	text-align:center;
+	padding-top:200px;
+	color:white;
+}
+.banner h1{
+	font-size:60px;
+	padding-bottom:20px;
+}
+.banner p{
+	padding-bottom:20px;
+	font-size:30px;
+}
+.banner button{
+	padding:10px 20px;
+	border-radius:10px;
+	background-color:#7C6F65;
+	color:white;
+	border-color:white;
+}
+.banner button:hover{
+	background-color:red;
+}
+
+
+
+/*service section */
+
+ h1 {
+	text-align:center;
+	font-size:50px;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.card h1{
+	font-size:30px;
+}
+.para{
+	padding:0 120px;
+	text-transform:capitalize;
+	line-height:30px;
+	font-weight:400;
+	padding-bottom:30px;
+	}
+.service{
+	width:100%;
+	margin:auto;
+}
+/*.service-col{
+	width:25%;
+	box-shadow:0 0 1px 0;
+	text-align:center;
+	padding:20px;
+	margin:10px;
+}
+.service-row{
+	width:100%;
+	display:flex;
+}*/
+.card i{
+	font-size:60px;
+	padding:0px 0;
+}
+.card p{
+	padding:10px 60px;
+	line-height:30px;
+}
+.round{
+	color:#dc55e6;
+}
+.contact{
+	color:#24cbd4;
+}
+ .meter{
+	color:#48bd40;
+}
+.world{
+	color:#4c48b0;
+}
+
+
+
+
+
+
+
+/* about section */
+
+.service{
+	width:100%;
+	margin:auto;
+	padding:20px 0 ;
+}
+.about-row{
+	width:100%;
+	display:flex;
+}
+.main{
+	padding-left:20px;
+}
+
+.main h3{
+	font-size:30px;
+	padding-bottom:10px;
+}
+.main p{
+	padding-right:20px;
+	font-size:20px;
+	}
+.about-col{
+	width:50%;
+}
+.about-img img{
+	width:100%;
+}
+.icon{
+	padding-left:20px;
+	margin:60px 0;
+	display:flex;
+}
+.icon i{
+	font-size:50px;
+	color:rgb(27,172,145);
+}
+.icon h2{
+	font-size:25px;
+	padding-left:20px;
+	
+}
+.icon span{
+	font-size:20px;
+	font-weight:300;
+}
+
+
+
+
+
+
+
+
+
+/* servic 1 */
+
+
+.service1{
+	width:100%;
+	margin:auto;
+	padding-top:30px;
+}
+.about-col1{
+	width:33.33%;
+	box-shadow:0 0 3px 0;
+	padding:20px;
+}
+.about-row1{
+	width:100%;
+	display:flex;
+	flex-wrap:wrap;
+	opacity:0.6;
+}
+.card1 h2{
+	padding-top:10px;
+}
+.card1 p{
+	padding-top:20px;
+	padding-right:50px;
+	opacity:0.7;
+	
+}
+.card1 .number{
+	color:rgb(27,172,145);
+}
+
+
+
+
+
+
+/* service2*/
+
+.service2{
+	width:100%;
+	margin:auto;
+	display:flex;
+	padding:20px 0;
+}
+.about-row2{
+	width:40%;
+	padding:20px;
+	text-align:center;
+}
+.about-row3{
+	width:60%
+}	
+.about-row2 h2{
+	padding-top:30px;
+}
+.about-row2 p{
+	padding-top:10px;
+}
+
+
+
+
+
